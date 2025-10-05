@@ -12,7 +12,7 @@ class Plugin extends AbstractPlugin
 {
     protected string $name = 'Tiny File Manager Plugin';
 
-    protected string $description = 'Tiny File Manager plugin for VitoDeploy';
+    protected string $description = 'Tiny File Manager plugin for VitoDeploy [NOT recommended for PRODUCTION]';
 
     public function boot(): void
     {

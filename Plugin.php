@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Vito\Plugins\Vitodeploy\TinyFileManager;
+namespace App\Vito\Plugins\Vitodeploy\TinyFileManagerPlugin;
 
 use App\DTOs\DynamicField;
 use App\DTOs\DynamicForm;
